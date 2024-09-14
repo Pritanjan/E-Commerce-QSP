@@ -423,3 +423,28 @@ button.normal {
   font-weight: 800;
   font-size: 22px;
 }
+
+/* NewsLeeter */
+#newsletter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-image: url("img/banner/b14.png");
+  background-repeat: no-repeat;
+  background-position: 20% 30%;
+  background-color: #041e42b6;
+}
+
+#newsletter .form {
+  display: flex;
+  width: 40%;
+}
+#newsletter h4 {
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+}
+#newsletter p {
+  color: #fff;
+}
